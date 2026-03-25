@@ -1,3 +1,13 @@
+title: Sydney Yan
+email: syyan@stanford.edu
+description: >- # This means a multi-line description
+  Master's student in CS at Stanford, incoming EE PhD. 
+  Researching optical sensing and robotics.
+
+baseurl: "" 
+url: "https://sydneyyan.github.io"
+
 theme: minima
-title: Sydney
-description: Hello
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
